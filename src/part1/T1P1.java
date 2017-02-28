@@ -15,7 +15,12 @@ public class T1P1 {
         Random gen = new Random();
         int[][] a = new int[20][20];
 
-        // Code to fill array with random ints
-        // Code to print array row by row
+        for(int row = 0; row < a.length; row++) {
+            for(int col = 0; col < a[row].length; col++) {
+                a[row][col] = gen.nextInt(100);
+                System.out.printf("%2d ", a[row][col]);                        
+            }
+            System.out.println("");
+        }
     }
 }

@@ -11,8 +11,8 @@ public class BookTest {
         Book b2 = new Horror("Frankenstein", "Mary Shelley");
         Book b3 = new Romance("The Princess Bride", "William Goldman");
 
-        System.out.println(b1.toString());
-        System.out.println(b2.toString());
-        System.out.println(b3.toString());
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(b3);
     }
 }
