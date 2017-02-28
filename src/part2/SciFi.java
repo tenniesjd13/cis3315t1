@@ -1,7 +1,7 @@
 package part2;
 
 /**
- * This SciFi class is finished. Use it as a model for Horror and Romance.
+ * This SciFi class is finished. Use it as a model for Horror and Romance. 
  *
  * @author John Phillips
  */

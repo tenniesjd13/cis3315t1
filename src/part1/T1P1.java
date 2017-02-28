@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Fill this 20 x 20 int array with random numbers. The numbers should have
  * values between 0 and 99. Then use a nested loop to print out the array row by
- * row with the numbers in evenly spaced columns.
+ * row with the numbers in evenly spaced columns. 
  *
  * @author Your Name Here
  */

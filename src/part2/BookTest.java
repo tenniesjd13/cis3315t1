@@ -1,7 +1,7 @@
 package part2;
 
 /**
- * Follow the SciFi example to fix Horror and Romance classes.
+ * Follow the SciFi example to fix Horror and Romance classes. 
  *
  * @author Your name here
  */
